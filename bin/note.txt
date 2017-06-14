@@ -1,0 +1,11 @@
+commons-beanutils.jar
+commons-collections.jar
+commons-lang.jar
+commons-logging.jar
+ezmorph-1.0.6.jar
+jackson-all-1.9.0.jar
+json-lib-2.2.3-jdk15.jar
+log4j-1.2.17.jar
+
+junit-4.10.jar
+servlet-api.jar
